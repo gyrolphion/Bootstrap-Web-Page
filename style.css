@@ -1,0 +1,52 @@
+.banner{
+    background: url("./img/banner.jpeg") no-repeat center;
+    background-size: cover;
+    padding-top: 20%;
+    padding-bottom: 20%;
+    color: purple;
+    height: 100vh;
+}
+.circle{
+    display: inline-block;
+    border-radius: 50%;
+    width: 150px;
+    margin: auto;
+    height: 150px;
+    color: #fff;
+    background-color: #dc3545;
+}
+.circle i{
+    position: relative;
+    top: 30px;
+}
+
+.product-img{
+    object-fit: cover;
+}
+.team img{
+    width: 250px;
+    border: 10px solid #cccccc;
+}
+a.social{
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    color: white;
+    border-radius: 50%;
+    background-color: #333;
+    line-height: 40px;
+}
+.client img{
+    height: auto;
+    max-height: 50px;
+}
+
+.contact{
+    background: url("./img/map.jpeg");
+    color: #eee;
+    background-size: cover;
+    padding-top: 20%;
+    padding-bottom: 20%;
+
+
+}
